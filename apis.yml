@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://api.techniknews.net/ipgeo/
 common:
+  - type: DomainSecurity
+    url: security/ipgeo-domain-security.yml
   - type: Website
     url: https://api.techniknews.net/ipgeo/
   - type: PublicAPIsListing

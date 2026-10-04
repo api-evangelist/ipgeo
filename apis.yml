@@ -39,7 +39,6 @@ apis:
   - name: IPGEO
     description: "Unlimited free IP Address API with useful information"
     humanURL: https://api.techniknews.net/ipgeo/
-    baseURL: https://api.techniknews.net/ipgeo/
     tags:
       - Geocoding
     properties:
